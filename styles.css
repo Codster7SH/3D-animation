@@ -22,7 +22,7 @@ body {
 .header-text{
     margin-top: 5%;
     font-size: 36px;
-    position: relative;
+    list-style-position: inside;
 }
 
 @keyframes animate {
