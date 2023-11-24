@@ -11,10 +11,6 @@ body {
     min-height: 100vh;
     background-color: rgba(241, 52, 52, 0.267);
 }
-.header-text{
-    margin-top: 5%;
-    font-size: 36px;
-}
 
 .box {
     position: relative;
@@ -22,6 +18,11 @@ body {
     height: 250px;
     transform-style: preserve-3d;
     animation: animate 20s linear infinite;
+}
+.header-text{
+    margin-top: 5%;
+    font-size: 36px;
+    position: relative;
 }
 
 @keyframes animate {
