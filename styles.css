@@ -11,6 +11,10 @@ body {
     min-height: 100vh;
     background-color: rgba(241, 52, 52, 0.267);
 }
+.header-text{
+    margin-top: 5%;
+    font-size: 36px;
+}
 
 .box {
     position: relative;
